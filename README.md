@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif)](https://DimiyaJr.io)
 # 💫 About Me:
-I am a software engineer with strong skills in OOP, Java, JavaScript, <br>HTML, and CSS. I also have a solid grasp of HTTP and the lifecycle of web <br>apps, especially single page applications. Excellent knowledge of source <br>control tools (Git), as well as Android app development expertise with <br>Android Studio. Understanding behavior-driven testing, continuous <br>integration, and deployment procedures, as well as unit testing ideas.
+I am a software engineer with strong skills in OOP, Java, JavaScript,HTML, and CSS. I also have a solid grasp of HTTP and the lifecycle of web apps, especially single page applications. Excellent knowledge of source control tools (Git), as well as Android app development expertise with Android Studio. Understanding behavior-driven testing, continuous integration, and deployment procedures, as well as unit testing ideas.
 
 
 ## 🌐 Socials:
